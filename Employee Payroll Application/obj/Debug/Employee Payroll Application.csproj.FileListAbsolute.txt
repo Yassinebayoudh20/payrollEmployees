@@ -1,0 +1,23 @@
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\bin\Debug\Employee Payroll Application.exe.config
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\bin\Debug\Employee Payroll Application.exe
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\bin\Debug\Employee Payroll Application.pdb
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee Payroll Application.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee_Payroll_Application.Properties.Resources.resources
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee Payroll Application.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee Payroll Application.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee Payroll Application.exe
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee Payroll Application.pdb
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee_Payroll_Application.MainMenu.resources
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee_Payroll_Application.AddEmployee.resources
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee_Payroll_Application.LoginScreen.resources
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee_Payroll_Application.SearchEmployee.resources
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\bin\Debug\MySql.Data.dll
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\bin\Debug\MySql.Data.xml
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee Payroll Application.csproj.CopyComplete
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee_Payroll_Application.Allowance.resources
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee_Payroll_Application.UpdateSalary.resources
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee_Payroll_Application.Deduction.resources
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\bin\Debug\itextsharp.dll
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\bin\Debug\itextsharp.xml
+C:\Users\asus\source\repos\Employee Payroll Application\Employee Payroll Application\obj\Debug\Employee_Payroll_Application.Payment.resources
